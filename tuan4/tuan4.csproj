@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChuyenXeNgoaiThanh.cs" />
+    <Compile Include="ChuyenXeNoiThanh.cs" />
     <Compile Include="HinhTron.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrderDetail.cs" />

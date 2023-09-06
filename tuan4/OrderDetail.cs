@@ -8,6 +8,7 @@ namespace tuan4
 {
     class OrderDetail
     {
+        private Product price;
         private int quantity;
 
         public int Quantity
@@ -33,7 +34,10 @@ namespace tuan4
             this.Quantity = quantity;
             this.Product = product;
         }
-
+        public double calcTotalPrice()
+        {
+            return quantity;
+        }
         public void nhapQ()
         {
             Console.WriteLine("Nhap so luong: ");
