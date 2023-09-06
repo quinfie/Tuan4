@@ -13,6 +13,9 @@ namespace tuan4
             ToaDo td = new ToaDo();
             td.nhap();
             td.xuat();
+            HinhTron ht = new HinhTron();
+            ht.input();
+            ht.output();
             Console.ReadLine();
         }
     }

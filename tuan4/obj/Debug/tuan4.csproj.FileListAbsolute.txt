@@ -1,1 +1,6 @@
 E:\LuuDuLieuSinhVien\quin\tuan4\tuan4\bin\Debug\tuan4.exe.config
+E:\LuuDuLieuSinhVien\quin\tuan4\tuan4\bin\Debug\tuan4.exe
+E:\LuuDuLieuSinhVien\quin\tuan4\tuan4\bin\Debug\tuan4.pdb
+E:\LuuDuLieuSinhVien\quin\tuan4\tuan4\obj\Debug\tuan4.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\quin\tuan4\tuan4\obj\Debug\tuan4.exe
+E:\LuuDuLieuSinhVien\quin\tuan4\tuan4\obj\Debug\tuan4.pdb
